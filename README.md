@@ -18,7 +18,7 @@ I initally created a template in Canva to allow me to easily experiment with col
 
 # Improvements
 I am uploading this about two months after creation (Oct 2022) as I didn't yet know what Github was or how to use it.  
-With the knowledge I have now there are quite alot of imporvements I would make to this site including:
+With the knowledge I have now there are quite alot of improvements I would make to this site including:
 - Design improvements such as nav bar background stretching across whole top of the page and larger nav.
 - Better sizing changes.  Responsive but at some sizes looks a little weird.
 - A merch page would have been cool to do.  I was originally going to create one with just images but I ran out of time.  I'd like to learn how to actually develop retail features and the ability to 'add to cart etc'.
