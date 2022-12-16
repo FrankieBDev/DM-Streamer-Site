@@ -13,8 +13,8 @@ I initally created a template in Canva to allow me to easily experiment with col
 - Consistency in design throughout.
 
 # Struggles
-I struggled initally using flexbox and media queries. I found alot of elements would not align quite as I wanted them to.
-I also attempted creating a Nav bar from scratch which was quite the challenge.  I eventually settled for using Bootstrap as a guide and edited to make it look how I wanted.
+-I struggled initally using flexbox and media queries. I found alot of elements would not align quite as I wanted them to.
+-I also attempted creating a Nav bar from scratch which was quite the challenge.  I eventually settled for using Bootstrap as a guide and edited to make it look how I wanted.
 
 # Improvements
 I am uploading this about two months after creation (Oct 2022) as I didn't yet know what Github was or how to use it.  
