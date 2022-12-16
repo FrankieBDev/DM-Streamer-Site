@@ -9,7 +9,7 @@ I initally created a template in Canva to allow me to easily experiment with col
 - When I first created this I was generally quite proud that I had created something that looked like an actual website AND was (somewhat) responsive.
 - I really like the 'hover' over the nav bar titles and the button links on the home page.  They change colour when the pointer hovers over them and makes it very clear that they are links and which section one will be directed to. 
 - All links work correctly.
-- Though I had to remove the clips as the videos were two big to upload to Github, I was able to successfully link videos and images to the page.
+- Though I had to remove the clips as the videos were too big to upload to Github, I was able to successfully link videos and images to the page.
 - Consistency in design throughout.
 
 # Struggles
